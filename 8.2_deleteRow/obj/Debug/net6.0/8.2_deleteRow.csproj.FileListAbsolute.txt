@@ -1,0 +1,16 @@
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\bin\Debug\net6.0\8.2_deleteRow.exe
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\bin\Debug\net6.0\8.2_deleteRow.deps.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\bin\Debug\net6.0\8.2_deleteRow.runtimeconfig.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\bin\Debug\net6.0\8.2_deleteRow.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\bin\Debug\net6.0\ref\8.2_deleteRow.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\bin\Debug\net6.0\8.2_deleteRow.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\obj\Debug\net6.0\8.2_deleteRow.GlobalUsings.g.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\obj\Debug\net6.0\8.2_deleteRow.csproj.AssemblyReference.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\obj\Debug\net6.0\8.2_deleteRow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\obj\Debug\net6.0\8.2_deleteRow.AssemblyInfoInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\obj\Debug\net6.0\8.2_deleteRow.AssemblyInfo.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\obj\Debug\net6.0\8.2_deleteRow.csproj.CoreCompileInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\obj\Debug\net6.0\8.2_deleteRow.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\obj\Debug\net6.0\ref\8.2_deleteRow.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\obj\Debug\net6.0\8.2_deleteRow.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.2_deleteRow\obj\Debug\net6.0\8.2_deleteRow.genruntimeconfig.cache
