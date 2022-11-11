@@ -1,0 +1,16 @@
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\bin\Debug\net6.0\8.4_paskalTriangle.exe
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\bin\Debug\net6.0\8.4_paskalTriangle.deps.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\bin\Debug\net6.0\8.4_paskalTriangle.runtimeconfig.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\bin\Debug\net6.0\8.4_paskalTriangle.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\bin\Debug\net6.0\ref\8.4_paskalTriangle.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\bin\Debug\net6.0\8.4_paskalTriangle.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\obj\Debug\net6.0\8.4_paskalTriangle.GlobalUsings.g.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\obj\Debug\net6.0\8.4_paskalTriangle.csproj.AssemblyReference.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\obj\Debug\net6.0\8.4_paskalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\obj\Debug\net6.0\8.4_paskalTriangle.AssemblyInfoInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\obj\Debug\net6.0\8.4_paskalTriangle.AssemblyInfo.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\obj\Debug\net6.0\8.4_paskalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\obj\Debug\net6.0\8.4_paskalTriangle.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\obj\Debug\net6.0\ref\8.4_paskalTriangle.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\obj\Debug\net6.0\8.4_paskalTriangle.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.4_paskalTriangle\obj\Debug\net6.0\8.4_paskalTriangle.genruntimeconfig.cache
