@@ -1,0 +1,16 @@
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\bin\Debug\net6.0\8.1_multiply.exe
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\bin\Debug\net6.0\8.1_multiply.deps.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\bin\Debug\net6.0\8.1_multiply.runtimeconfig.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\bin\Debug\net6.0\8.1_multiply.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\bin\Debug\net6.0\ref\8.1_multiply.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\bin\Debug\net6.0\8.1_multiply.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\obj\Debug\net6.0\8.1_multiply.GlobalUsings.g.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\obj\Debug\net6.0\8.1_multiply.csproj.AssemblyReference.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\obj\Debug\net6.0\8.1_multiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\obj\Debug\net6.0\8.1_multiply.AssemblyInfoInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\obj\Debug\net6.0\8.1_multiply.AssemblyInfo.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\obj\Debug\net6.0\8.1_multiply.csproj.CoreCompileInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\obj\Debug\net6.0\8.1_multiply.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\obj\Debug\net6.0\ref\8.1_multiply.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\obj\Debug\net6.0\8.1_multiply.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.1_multiply\obj\Debug\net6.0\8.1_multiply.genruntimeconfig.cache
