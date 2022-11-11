@@ -1,0 +1,16 @@
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\bin\Debug\net6.0\8.3_trehmernyiMassiv.exe
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\bin\Debug\net6.0\8.3_trehmernyiMassiv.deps.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\bin\Debug\net6.0\8.3_trehmernyiMassiv.runtimeconfig.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\bin\Debug\net6.0\8.3_trehmernyiMassiv.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\bin\Debug\net6.0\ref\8.3_trehmernyiMassiv.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\bin\Debug\net6.0\8.3_trehmernyiMassiv.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\obj\Debug\net6.0\8.3_trehmernyiMassiv.GlobalUsings.g.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\obj\Debug\net6.0\8.3_trehmernyiMassiv.csproj.AssemblyReference.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\obj\Debug\net6.0\8.3_trehmernyiMassiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\obj\Debug\net6.0\8.3_trehmernyiMassiv.AssemblyInfoInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\obj\Debug\net6.0\8.3_trehmernyiMassiv.AssemblyInfo.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\obj\Debug\net6.0\8.3_trehmernyiMassiv.csproj.CoreCompileInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\obj\Debug\net6.0\8.3_trehmernyiMassiv.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\obj\Debug\net6.0\ref\8.3_trehmernyiMassiv.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\obj\Debug\net6.0\8.3_trehmernyiMassiv.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\8_SEMINAR\8.3_trehmernyiMassiv\obj\Debug\net6.0\8.3_trehmernyiMassiv.genruntimeconfig.cache
